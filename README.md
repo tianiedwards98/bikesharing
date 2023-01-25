@@ -17,35 +17,35 @@ The framework for this project is data from CitiBike in New York City for presen
 
 Although there is a major difference between the make up of the citizens of Des Moines and the citizens of NYC , an overlook of the citibike riders can show how much the bike-dhare may appeal to the citizens.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.15.17%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.15.17%20PM.png?raw=true)
 
 Through this data it is also shines a light on which groups of citizens that the Bike-Share would be more appealing to, when it comes to gender.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.15.41%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.15.41%20PM.png?raw=true)
 
 It also shows how much it appeals to the different age groups and how consistent they are with using the bike-share program.Which although the program may be more consistently appealing to those born in later years, it still appears to be appealing to those born in earlier years as well.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.27.29%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.27.29%20PM.png?raw=true)
 
 This chart displays when bike-rides are initialted throughout the day which signifies taht the most optimal time for to do bike repairs, and redistriubte bikes to other areas would be around 2AM-5AM.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.12.52%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.12.52%20PM.png?raw=true)
 
 A heatmap also helps show weekly usage patterns. Once again, we can see heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day.The relatively low bike usage during Wednesday's end-of-day commute is an interesting anomaly. It could be helpful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours every day of the week.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.16.01%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.16.01%20PM.png?raw=true)
 
 Here is the heatmap according to the genders documented in the data that aso shows the weekly usage patterns .
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.17.07%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.17.07%20PM.png?raw=true)
 
 To see what proportion of the bikes get heavy usage, we can look at this stepped-level heatmap. This tiling shows each cycle in the fleet, sized, colored, and sorted by its degree of usage during the month. In the shades of green we can see that these bikes are used more frequently which could indicate that they will need regular repairs, whereas the shades of red are not used as frequently so they can use the occasional maintence of the bike.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.14.58%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.14.58%20PM.png?raw=true)
 
 Lastly, this heatmap reinforces how much of the user base is dominated by male-identifying, subscribing users.
 
-![Pic]("https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.17.28%20PM.png?raw=true")
+![Pic](https://github.com/tianiedwards98/bikesharing/blob/main/Images/Screen%20Shot%202023-01-24%20at%2011.17.28%20PM.png?raw=true)
 
 ## Summary
 
